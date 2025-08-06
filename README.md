@@ -10,6 +10,8 @@ A passionate builder exploring the frontiers of technology.
 - Software engineering
 - AI and machine learning
 - Web3 and blockchain
+- DevOps and platform engineering
+- Production operations
 - Open-source contributions
 
 Let's build something great.
